@@ -12,7 +12,7 @@ package if1.pkg10119023.latihan26.waktusaatini;
  * NAMA              : Muhammad Farhan R <farhan.10119023@mahasiswa.unikom.ac.id>
  * KELAS             : IF1
  * NIM               : 10119023
- * Deskripsi Program :
+ * Deskripsi Program : Program format waktu saat ini
  *
  */
 import java.text.SimpleDateFormat;
